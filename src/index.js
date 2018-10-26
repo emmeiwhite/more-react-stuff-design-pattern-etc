@@ -10,6 +10,7 @@ const User = ()=>{
         <h1>Never Ever does time permit us to to go beyond limits</h1>
     )
 }
+
 ReactDOM.render(
 <App message="I am a prop coming from index.js into App Component">
     <User/>
